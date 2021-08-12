@@ -1,0 +1,18 @@
+#list-digimon {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+#digimon {
+  width: 100px;
+  margin: 0
+}
+
+#digimon img {
+  width: 100%;
+}
+
+#digimon span {
+  width: 100px;
+}
