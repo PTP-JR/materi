@@ -15,6 +15,9 @@ function DataDigimon() {
   return (
     <>
       <h1>Digimon</h1>
+      <h3>{dataDigimon[0].name}</h3>
+      <h3>{dataDigimon[1].name}</h3>
+      <h3>{dataDigimon[2].name}</h3>
     </>
   )
 }
