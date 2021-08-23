@@ -1,5 +1,4 @@
-
-
+// menangkap props sebagai parameter
 function Skill({keahlian}) {
   console.log(keahlian);
 
