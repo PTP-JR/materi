@@ -1,5 +1,6 @@
 import "./App.css";
 import ReactAsync from "./components/ReactAsync";
+import EventForm from "./components/EventForm";
 
 // import { useState } from "react";
 // import Navigasi from "./components/Navigasi";
@@ -15,6 +16,7 @@ function App() {
 
   return (
     <div className="App">
+      <EventForm />
       <ReactAsync />
       {/* membagi tampilan menjadi sebuah komponen */}
       {/* <Navigasi />
