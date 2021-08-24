@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.navigation ul li {
+  list-style: none;
+}
+
+#about {
+  background-color: thistle;
+}
+
+#contact-me {
+  background-color: rgb(187, 175, 255);
+}
+
+#skill {
+  background-color: rgb(255, 188, 188);
+  border: 1px solid black;
+  padding: 10px;
+}

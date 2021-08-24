@@ -2,7 +2,7 @@
 import "./App.css";
 import HelloWorld from "./HelloWorld";
 
-function App() {
+const App = () => {
   const hello = "hello world dari JS";
 
   const handleClickImage = () => {
@@ -36,6 +36,6 @@ function App() {
       ))}
     </div>
   );
-}
+};
 
 export default App;
